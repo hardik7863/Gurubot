@@ -6,5 +6,5 @@ from tensorflow.keras.models import load_model
 import joblib
 from pathlib import Path
 import nltk
-import 
+
 nltk.download('wordnet')
